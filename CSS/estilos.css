@@ -1,5 +1,6 @@
-body (
+body {
     background-color: #OOF;
     font-weight:bold;
     color: #OOF; 
-)
+    font-size:18px;
+ }   
